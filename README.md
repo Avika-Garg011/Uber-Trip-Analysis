@@ -40,38 +40,38 @@ The Uber Trip Analysis Power BI Dashboard is an end-to-end data visualization pr
 
 ![Image 3](https://github.com/user-attachments/assets/8b31f3f5-3102-4ccf-a35a-93674fae7337)
 
-• ## 📌 Key Performance Indicators (KPIs)
-• Page 1: Trip & Revenue Overview<br>
+## 📌 Key Performance Indicators (KPIs)<br>
+Page 1: Trip & Revenue Overview<br>
 	• 📦 Total Bookings: 103.7K<br>
 	• 💰 Total Booking Value: $1.6M<br>
 	• 🚗 Most Booked Vehicle: UberX<br>
 	• 📍 Top Pick up: Penn Station / Madison Sq West<br><br>
-• Page 2: Trip Distance & Time Analysis<br>
+Page 2: Trip Distance & Time Analysis<br>
 	• 📏 Total Trip Distance: 349K miles<br>
 	• 🕒 Total Trip Time: 1.7M minutes<br>
 	• 📊 Average Trip Distance: 3 miles<br>
 	• ⏱️ Average Trip Duration: 16 minutes<br><br>
-• Page 3: Payment & Location Analysis<br>
+Page 3: Payment & Location Analysis<br>
 	• 💳 Most Used Payment Method: Uber Pay (67%)<br>
 	• 🔁 Card Payments: 30%, Cash: 3%<br>
 	• 🗺️ Frequent Drop-off: Upper East Side North<br>
 	• 🚕 Farthest Trip: 144.1 miles<br>
 	
 
-• ## 🔥 Key Insights from the Dashboard
-	• UberX dominates the booking landscape with maximum ride counts.<br>
-	• Bookings peak on weekends, especially Friday evenings.<br>
-	• Most trips are short-range, averaging around 3 miles and 16 minutes.<br>
-	• Day trips are more common, representing 65%+ of total rides.<br>
-	• Uber Pay is the most widely used payment mode.<br>
-	• Top vehicle types differ by day vs night usage patterns.<br>
+## 🔥 Key Insights from the Dashboard
+• UberX dominates the booking landscape with maximum ride counts.<br>
+• Bookings peak on weekends, especially Friday evenings.<br>
+• Most trips are short-range, averaging around 3 miles and 16 minutes.<br>
+• Day trips are more common, representing 65%+ of total rides.<br>
+• Uber Pay is the most widely used payment mode.<br>
+• Top vehicle types differ by day vs night usage patterns.<br>
 
-• ## 📌 Technologies Used
-	• Power BI – Visual analytics and report building<br>
-	• DAX – KPIs, calculated columns, time intelligence functions<br>
-	• Power Query Editor – Data transformation and cleaning<br>
-	• Custom Icons and Layout – Enhanced visual appeal<br>
-	• Slicers & Page Navigation – Seamless interactivity<br>
+## 📌 Technologies Used
+• Power BI – Visual analytics and report building<br>
+• DAX – KPIs, calculated columns, time intelligence functions<br>
+• Power Query Editor – Data transformation and cleaning<br>
+• Custom Icons and Layout – Enhanced visual appeal<br>
+• Slicers & Page Navigation – Seamless interactivity<br>
 
 ## 🎯 Conclusion
 This multi-page Uber dashboard project demonstrates how data storytelling can reveal critical patterns in mobility services. From total revenue to geographic heatmaps, the insights offer immense value in improving customer satisfaction and operational planning.
